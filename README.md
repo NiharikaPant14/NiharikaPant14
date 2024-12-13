@@ -59,12 +59,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-### **Robotics Platforms:**
-<p align="left">
-  <a href="https://developer.nvidia.com/isaac" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Nvidia_logo.svg" alt="NVIDIA Isaac" width="40" height="40"/> </a>  
-  <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Robot_Operating_System_Logo_2018.svg" alt="ROS" width="40" height="40"/> </a>  
-</p>
-
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
