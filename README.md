@@ -1,4 +1,4 @@
-## Hi there 👋
+![logo](https://github.com/NiharikaPant14/NiharikaPant14/blob/main/What%20Kind%20Of%20Muggle%20Magic%20Is%20This.png)
 
 <!--
 **NiharikaPant14/NiharikaPant14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
