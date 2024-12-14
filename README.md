@@ -59,11 +59,25 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
+
+# 📊 GitHub Stats:
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=NiharikaPant14&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 48%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiharikaPant14&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 48%;" />
+</div>
+
+
+
+
 ---
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=niharikapant14&show_icons=true&locale=en" alt="niharikapant14" /></p>
+  <p>&nbsp;</p>
   <img src="https://github.com/NiharikaPant14/NiharikaPant14/blob/main/happy-cup-of-animated-coffee-good-morning-xxffy0ybteyt4a8f.gif" alt="gif4" width="100" align="right" />
 </div>
 
----
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
