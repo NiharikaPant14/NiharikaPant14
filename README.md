@@ -3,7 +3,17 @@
 <h1 align="center">Hey 👋, I'm Niharika Pant</h1>
 <h3 align="center">"Innovating at the Intersection of Robotics, AI, ML, and Mathematics"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niharikapant14&label=Profile%20views&color=0e75b6&style=flat" alt="niharikapant14" /> <img src="https://github.com/NiharikaPant14/NiharikaPant14/blob/main/5038f6672f089f3a50c4f075feddfc42.gif" alt="gif1" width="100" align="right" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niharikapant14&label=Profile%20views&color=0e75b6&style=flat" alt="niharikapant14" />
+</p>
+
+### 🧠 **About Me**  
+
+I’m all about solving real-world problems with tech. Turning complex ideas into simple, impactful solutions is my jam. Whether it’s AI, robotics, or mathematics, I dive headfirst into it all with a passion for making things actually work. When I’m not tinkering with neural networks, I’m crafting web apps that do more than just look pretty — they deliver results. I learn by doing and love the chaos of debugging — because who doesn’t? If you’re looking for someone who can make tech both functional and fun, I’m your person✨.
+
+---
+
+
+<p align="left"> <img src="https://github.com/NiharikaPant14/NiharikaPant14/blob/main/5038f6672f089f3a50c4f075feddfc42.gif" alt="gif1" width="100" align="right" /> </p>
 
 - 🔭 **Currently working on**: "Right now, I’m working on federated learning and blockchain—two things that probably sound way cooler than they actually are!"
   
