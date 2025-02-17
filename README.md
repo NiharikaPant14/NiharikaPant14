@@ -74,7 +74,6 @@ I’m all about solving real-world problems with tech. Turning complex ideas int
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=NiharikaPant14&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 48%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiharikaPant14&theme=dark&hide_border=false" alt="GitHub Streak" style="width: 48%;" />
 </div>
 
 
