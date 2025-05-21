@@ -15,7 +15,7 @@ I’m all about solving real-world problems with tech. Turning complex ideas int
 
 <p align="left"> <img src="https://github.com/NiharikaPant14/NiharikaPant14/blob/main/5038f6672f089f3a50c4f075feddfc42.gif" alt="gif1" width="100" align="right" /> </p>
 
-- 🔭 **Currently working on**: "Right now, I’m working on federated learning and blockchain—two things that probably sound way cooler than they actually are!"
+- 🔭 **Currently working on**: "Right now, I’m building an AI-powered drone surveillance system that spots hidden camps and suspicious movement—basically teaching drones to be nosy."
   
 - 🌱 **Learning**: Isaac Sim, Isaac SDK, Isaac ROS, R
 
