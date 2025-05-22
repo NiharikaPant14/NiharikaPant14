@@ -1,4 +1,4 @@
-![logo](https://github.com/NiharikaPant14/NiharikaPant14/blob/main/What%20Kind%20Of%20Muggle%20Magic%20Is%20This.png)
+![logo](banner.png)
 
 <h1 align="center">Hey 👋, I'm Niharika Pant</h1>
 <h3 align="center">"Innovating at the Intersection of Robotics, AI, ML, and Mathematics"</h3>
