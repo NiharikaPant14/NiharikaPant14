@@ -21,7 +21,7 @@ I’m all about solving real-world problems with tech. Turning complex ideas int
 
 - 💬 **Ask me about**: "NP-hard problems, because clearly, I have no idea what’s going on."
 
-- 📄 **Know about my experiences**: [About Me](https://github.com/NiharikaPant14/NiharikaPant14/blob/main/Niharika_Pant_Resumee.pdf)
+- 📄 **Know about my experiences**: [About Me](https://github.com/NiharikaPant14/NiharikaPant14/blob/main/Niharika_Pant_RGIPT_CV.pdf)
 
 - ⚡ **Fun fact**: "Somehow surviving chaos, work, and coffee... and shockingly, my room is still clean. 🫣☕️🤷‍♀️"
 
